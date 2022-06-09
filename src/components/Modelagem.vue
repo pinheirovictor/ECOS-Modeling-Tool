@@ -134,7 +134,7 @@
 
       <div id="select">
         <select v-model="selected" name="language" id="language" class="chave">
-          <option value="pt-BR">Português - Brasil</option>
+          <option value="pt-BR">Português</option>
           <option value="en">Inglês</option>
           <option value="es">Espanhol</option>
         </select>
@@ -2416,15 +2416,15 @@ export default {
     window.mxPopupMenu = mxPopupMenu;
     window.mxCellHighlight = mxCellHighlight;
 
-    window.addEventListener("copy", () => {
+    window.addEventListener("copy", (e) => {
       this.copiar();
     });
 
-    window.addEventListener("paste", () => {
+    window.addEventListener("paste", (e) => {
       this.colar();
     });
 
-    window.addEventListener("cut", () => {
+    window.addEventListener("cut", (e) => {
       this.recortar();
     });
 
