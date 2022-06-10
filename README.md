@@ -4,7 +4,7 @@
 ## :memo: Description
 The ECOSModeling 2.0 tool is an evolution of the ECOSModeling web tool, an environment that allows performing the modeling of Software Ecosystems (SECO) using the SSN notation, in addition to the maintenance and evolution of SECO models.
 
-## :books: Funcionalidades
+## :books: Functionalities
 * <b>Modeling </b>: It allows the export of the model created in some extensions, both as an image (PNG) as well as in JSON and XML formats. This functionality allows the user to later use the model created in the tool.
 
 * <b>Export model </b>: It allows the export of the model created in some extensions, both as an image (PNG) as well as in JSON and XML formats. This functionality allows the user to later use the model created in the tool.
@@ -19,3 +19,5 @@ The ECOSModeling 2.0 tool is an evolution of the ECOSModeling web tool, an envir
 
 * <b>Statistics </b>: The functionality generates a statistical report of the model, on the SECO components and relationships. The functionality allows the extraction of data for future quantitative analysis of the model, evolution, versions and maintenance.
 
+## :wrench: Technologies used
+* Tecnologia;
