@@ -27,7 +27,10 @@ The ECOSModeling 2.0 tool is an evolution of the ECOSModeling web tool, an envir
 * ``HTML``;
 * ``CSS``;
 
+## :rocket: Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+
 ## Autores
 
-[<img src="https://avatars.githubusercontent.com/u/37351953?s=400&u=a8b4c29a928c56e2584da3383130c308a28ad118&v=4" width=115><br><sub>Victor Pinheiro</sub>](https://github.com/pinheirovictor) ]| [<img src="https://avatars.githubusercontent.com/u/29809911?v=4" width=115><br><sub>Ronier Lima</sub>](https://github.com/ronierlima)]
+[<img src="https://avatars.githubusercontent.com/u/37351953?s=400&u=a8b4c29a928c56e2584da3383130c308a28ad118&v=4" width=115><br><sub>Victor Pinheiro</sub>](https://github.com/pinheirovictor) | [<img src="https://avatars.githubusercontent.com/u/29809911?v=4" width=115><br><sub>Ronier Lima</sub>](https://github.com/ronierlima)
 | :---: | :---: |
