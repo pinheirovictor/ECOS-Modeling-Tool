@@ -388,6 +388,13 @@
 
     <transition name="modal3" v-if="showModalRelatorio">
       <div class="modal3-mask">
+        <div id="logo-pdf">
+          <img
+            width="220px"
+            src="../assets/logo.png"
+            :title="usingLang.company_of_interest"
+          />
+        </div>
         <div class="modal3-wrapper">
           <div class="modal3-container">
             <div class="modal3-header">
@@ -416,6 +423,13 @@
                   @click="showModalRelatorio = false"
                 >
                   {{ usingLang.sair }}
+                </button>
+
+                 <button
+                  class="modal3-default-button pdf"
+                  @click="printRelatorio"
+                >
+                  {{ usingLang.print }}
                 </button>
               </slot>
             </div>
@@ -2263,6 +2277,12 @@ export default {
         );
       }
     },
+
+    
+    printRelatorio() {
+      window.print();
+    },
+
 
     sublinhado() {
       if (editor.graph.isEnabled()) {
