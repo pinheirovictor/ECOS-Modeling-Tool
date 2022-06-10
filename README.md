@@ -1,5 +1,6 @@
-# ECOSModelling 2.0
+
+<h1 align="center">:file_cabinet: ECOSModelling 2.0</h1>
+
 
 ## Software Ecosystem Modeling Tool Using SSN Notation
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
