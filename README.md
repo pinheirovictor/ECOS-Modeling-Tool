@@ -5,17 +5,17 @@
 The ECOSModeling 2.0 tool is an evolution of the ECOSModeling web tool, an environment that allows performing the modeling of Software Ecosystems (SECO) using the SSN notation, in addition to the maintenance and evolution of SECO models.
 
 ## :books: Funcionalidades
-* <b>Modelagem </b>: Possibilita a exportação do modelo criado em algumas extensões, tando de imagem (PNG) como também em formatos JSON e XML. Essa funcionalidade permite ao usuário utilizar posteriormente o modelo criado na ferramenta.
+* <b>Modeling </b>: It allows the export of the model created in some extensions, both as an image (PNG) as well as in JSON and XML formats. This functionality allows the user to later use the model created in the tool.
 
-* <b>Exportar modelo </b>: Possibilita a exportação do modelo criado em algumas extensões, tando de imagem (PNG) como também em formatos JSON e XML. Essa funcionalidade permite ao usuário utilizar posteriormente o modelo criado na ferramenta.
+* <b>Export model </b>: It allows the export of the model created in some extensions, both as an image (PNG) as well as in JSON and XML formats. This functionality allows the user to later use the model created in the tool.
 
-* <b>Importar modelo </b>: Permite a importação do modelo no formato XML na ferramenta para manutenção e posterior evolução, como a adição de novos componentes e relacionamentos ao SECO. 
+* <b>Import model </b>: It allows the import of the model in XML format in the tool for maintenance and subsequent evolution, such as the addition of new components and relationships to SECO.
 
-* <b>Internacionalização </b>: Possibilita a internacionalização da ferramenta. A funcionalidade permite a tradução totalmente da ferramenta em três línguas: Português, Inglês e Espanhol.
+* <b>internationalization </b>: Enables the internationalization of the tool. The functionality allows the translation of the tool in three languages: Portuguese, English and Spanish.
 
-* <b>Manipular modelo </b>: Série de funcionalidades que auxiliam na criação do modelo, sua estruturação e posterior manutenção e evolução. As funcionalidades de manipulação são: zoom mais e menos, zoom padrão, deletar componente, recortar, copiar, colar, refazer, desfazer, selecionar tudo e desfazer seleção, impressão, componente para frente, para trás, negrito, itálico e sublinhado. 
+* <b>mMnipulate model </b>: Series of functionalities that help in the creation of the model, its structuring and subsequent maintenance and evolution. The manipulation functionalities are: zoom in and out, standard zoom, delete component, cut, copy, paste, redo, undo, select all and deselect, print, component forward, backward, bold, italic and underline. 
  
-* <b>Propriedades </b>: A funcionalidade exibe para o usuário as propriedades do XML do modelo criado no momento da modelagem. Essa funcionalidade permite visualizar as propriedades do modelo.
+* <b>Properties </b>: The functionality displays the XML properties of the model created at the time of modeling to the user. This functionality allows you to view the properties of the model.
 
-* <b>Estatísticas </b>: A funcionalidade gera um relatório estatístico do modelo, sobre os componentes e os relacionamentos do SECO. A funcionalidade permite a extração de dados para futuras analises quantitativas do modelo, evolução, versões e manutenção.
+* <b>Statistics </b>: The functionality generates a statistical report of the model, on the SECO components and relationships. The functionality allows the extraction of data for future quantitative analysis of the model, evolution, versions and maintenance.
 
