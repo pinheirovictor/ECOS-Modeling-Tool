@@ -38,6 +38,13 @@ npm install
 npm run serve
 ```
 
+## :dart: Project status
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+
 ## Authors
 
 [<img src="https://avatars.githubusercontent.com/u/37351953?s=400&u=a8b4c29a928c56e2584da3383130c308a28ad118&v=4" width=115><br><sub>Victor Pinheiro</sub>](https://github.com/pinheirovictor) | [<img src="https://avatars.githubusercontent.com/u/29809911?v=4" width=115><br><sub>Ronier Lima</sub>](https://github.com/ronierlima)
