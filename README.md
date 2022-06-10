@@ -44,6 +44,12 @@ npm run serve
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+## :soon: Future implementation
+* User registration and login
+* Model registration
+* Availability of templates
+* Template sharing
+* Statistics report
 
 ## Authors
 
