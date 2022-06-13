@@ -126,8 +126,8 @@
             width="32px"
             @click="selecionarRelacoes()"
             src="../assets/select_vertices.svg"
-            :alt="usingLang.italico"
-            :title="usingLang.italico"
+            :alt="usingLang.vertices"
+            :title="usingLang.vertices"
           />
         </div>
       </div>

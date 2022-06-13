@@ -15,7 +15,6 @@ module.exports.pt = {
   zoomin: "Zoom mais",
   zoomout: "Zoom menos",
   zoomDefault: "Zoom padrão",
-
   recort:"Recortar",
   copy:"Copiar",
   colar:"Colar",
@@ -49,6 +48,7 @@ module.exports.pt = {
   xml:"Baixar em XML",
   json:"Baixar em JSON",
   sair:"Sair",
+  vertices:"Selecionar vértices",
   
 };
 
@@ -69,7 +69,6 @@ module.exports.en = {
   zoomin: "Zoom in",
   zoomout: "Zoom out",
   zoomDefault: "Zoom default",
-
   recort:"Cut",
   copy:"Copy",
   colar:"Paste",
@@ -89,8 +88,7 @@ module.exports.en = {
   negrito:"Bold",
   sublinhado:"Underline",
   italico:"Italic",
-
-
+  vertices:"Select vertices", 
   export_png :"Export in PNG",
   export_svg:"Export in SVG",
   export_xml:"Export in XML",
@@ -125,7 +123,6 @@ module.exports.es = {
   zoomin: "Zoom mais",
   zoomout: "Zoom menos",
   zoomDefault: "Zoom padrão",
-
   recort:"Recorte",
   copy:"Dupdo",
   colar:"Pegar",
@@ -145,15 +142,12 @@ module.exports.es = {
   negrito:"Negrito",
   sublinhado:"Subrayar",
   italico:"Itálico",
-
-
-
+  vertices:"Seleccionar vértices",
   export_png :"Exportar en PNG",
   export_svg:"Exportar en SVG",
   export_xml:"Exportar en XML",
   export_json:"Exportar en JSON",
   import:"Importar XML",
-
   import2:"Importar archivo XML",
   cancel:"Cancelar",
   importar:"Importar",
@@ -163,6 +157,4 @@ module.exports.es = {
   xml:"Descarga en XML",
   json:"Descarga en JSON",
   sair:"Sal"
-  
-  
 };
